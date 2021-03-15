@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Rahi Bulbul",
+        "username": "admin",
+        "password": "123456",
+        "email": "rahibulbul@outlook.com",
+        "gender": "Male",
+        "birthday": null
+    },
+    {
+        "name": "Test",
+        "username": "Test",
+        "password": "123456",
+        "email": "test@gmail.com",
+        "gender": "Male",
+        "birthday": null
+    },
+    {
+        "name": "KAZI AHASANUL KARIM",
+        "username": "Admin",
+        "password": "356553",
+        "email": "mkazi1922@gmail.com ",
+        "gender": "Male",
+        "birthday": null
+    },
+    {
+        "name": "Test",
+        "username": "Test",
+        "password": "123456",
+        "email": "test@gmail.com",
+        "gender": "Male",
+        "birthday": null
+    },
+    {
+        "name": "Manager",
+        "username": "Manager",
+        "password": "123",
+        "email": "sheuly@gmail.com",
+        "gender": "Female",
+        "birthday": null
+    }
+]
