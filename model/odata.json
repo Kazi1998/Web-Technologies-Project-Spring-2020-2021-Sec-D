@@ -1,0 +1,14 @@
+[
+    {
+        "code": "101",
+        "item": "Burger",
+        "price": "120",
+        "vat": "2"
+    },
+    {
+        "code": "102",
+        "item": "French Fries",
+        "price": "100",
+        "vat": "1"
+    }
+]
